@@ -19,7 +19,7 @@ import {
   Calc,
   StyledText
 } from './components'
-import { CLEAR_BUTTONS, onButtonClick, init } from './logic'
+import { CLEAR_BUTTONS, onButtonClick } from './logic'
 import {reducer, updateCalc} from './redux'
 
 // create Store
